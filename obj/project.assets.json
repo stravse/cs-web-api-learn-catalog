@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "D:\\Project\\cs-web-api-learn-catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "D:\\Project\\Catalog\\Catalog.csproj",
+      "projectPath": "D:\\Project\\cs-web-api-learn-catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\ace\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Catalog\\obj\\",
+      "outputPath": "D:\\Project\\cs-web-api-learn-catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
